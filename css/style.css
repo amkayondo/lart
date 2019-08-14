@@ -1,0 +1,33 @@
+.lstlog {
+    font-size: 52px;
+    font-family: century gothic;
+    font-weight: 900;
+    position: absolute;
+    left: 18px;
+}
+
+.navg {
+    position: fixed;
+    background: white;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.fiskn {
+    position: absolute;
+    top: 15px;
+    left: 327px;
+}
+
+input.rfinsa {
+    width: 523px;
+    height: 50px;
+    border-radius: 22px;
+    padding-left: 15px;
+    font-family: century gothic;
+    font-size: 17px;
+    font-weight: 900;
+    border-color: transparent;
+    background: #c1c1c169;
+}
